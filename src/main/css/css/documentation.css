@@ -285,6 +285,7 @@ div.note h2, div.note p, div.tip h2, div.tip p, div.caution h2, div.caution p, d
 #title {
     padding:0px;
     margin:0px;
+    margin-bottom:15px;
 }
 
 #title strong {display:none;}
@@ -292,7 +293,7 @@ div.note h2, div.note p, div.tip h2, div.tip p, div.caution h2, div.caution p, d
 #title a.site_href {
     display:block;
     height:89px;
-    width:310px;
+    width:479px;
     float:left;
     background:url(../images/community/jbossorglogo.png) top left no-repeat;
 }
